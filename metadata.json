@@ -1,0 +1,5 @@
+{
+  "name": "Sraffa Engine",
+  "description": "An interactive visualization of Piero Sraffa's 'Production of Commodities by Means of Commodities'. Model N-commodity systems, adjust coefficients, and analyze price dynamics with Gemini.",
+  "requestFramePermissions": []
+}
